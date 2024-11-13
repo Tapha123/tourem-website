@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Apéro</title>
+    <title>Hugo Apéro on MT-ePortfolio</title>
     <link>http://localhost:4789/</link>
-    <description>Recent content on Hugo Apéro</description>
+    <description>Recent content in Hugo Apéro on MT-ePortfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
