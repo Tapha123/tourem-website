@@ -11,3 +11,5 @@ blogdown::install_theme(theme = "hugo-apero/hugo-apero",
 blogdown::serve_site()
 
 blogdown::check_config()
+
+blogdown::config_netlify()

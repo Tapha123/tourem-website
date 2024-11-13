@@ -1,4 +1,4 @@
-baseURL = "https://www.example.org/"
+baseURL = "https://tourem.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "MT-ePortfolio"
