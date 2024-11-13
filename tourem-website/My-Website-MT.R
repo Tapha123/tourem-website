@@ -9,3 +9,5 @@ blogdown::install_theme(theme = "hugo-apero/hugo-apero",
                         force = TRUE)
 
 blogdown::serve_site()
+
+blogdown::check_config()
