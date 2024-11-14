@@ -1,14 +1,14 @@
 ---
-author: The R Markdown Team @RStudio
+author: Moustapha Touré
 cascade:
-  author: The R Markdown Team @RStudio
+  author: Moustapha Touré
   show_author_byline: true
   show_comments: true
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
-    text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_label: 
+    text_link_url: /aboutme/
 description: "This is a fully featured blog that supports categories, \ntags, series,
   and pagination.\n"
 layout: list-sidebar
@@ -17,17 +17,16 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  categories_link: true
-  description: "This is a fully featured blog that supports categories,\ntags, series,
-    and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
-    the _index.md file in the /blog folder \nto edit this content. \n"
-  series_link: true
-  show_sidebar_adunit: true
-  tags_link: true
-  text_link_label: Subscribe via RSS
+  author:
+  categories_link: false
+  description: "
+I’m Moustapha Touré, an economist and researcher at McGill University.  \n"
+  series_link: false
+  show_sidebar_adunit: false
+  tags_link: false
+  text_link_label: 
   text_link_url: /index.xml
-  title: A Sidebar for Your Thoughts
+  title: Welcome! 
 thumbnail_left: true
 title: A Blog That Works
 ---

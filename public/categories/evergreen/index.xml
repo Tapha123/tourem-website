@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evergreen on MT-ePortfolio</title>
+    <title>Evergreen on MT&#39;s ePortfolio</title>
     <link>http://localhost:4321/categories/evergreen/</link>
-    <description>Recent content in Evergreen on MT-ePortfolio</description>
+    <description>Recent content in Evergreen on MT&#39;s ePortfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>

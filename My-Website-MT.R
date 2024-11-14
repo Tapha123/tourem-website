@@ -13,3 +13,6 @@ blogdown::serve_site()
 blogdown::check_config()
 
 blogdown::config_netlify()
+
+blogdown::check_netlify()
+
