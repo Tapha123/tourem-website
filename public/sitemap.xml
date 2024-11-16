@@ -38,13 +38,34 @@
     <loc>http://localhost:4321/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/categories/article/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/talk/13md_2/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/talk/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/talk/diff_pref_sf6dv2/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/talk/value_set_sf6dv2/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/talk/w13md_1/</loc>
+    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/talk/zsystematice_review/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/social/</loc>
@@ -74,15 +95,6 @@
     <loc>http://localhost:4321/categories/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/campfire/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/workshop/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/series/a-spoonful-of-hugo/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -100,12 +112,6 @@
   </url><url>
     <loc>http://localhost:4321/blog/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/second-seedling/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/meetup/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
@@ -127,9 +133,6 @@
   </url><url>
     <loc>http://localhost:4321/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>

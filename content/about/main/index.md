@@ -1,15 +1,20 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
+title: "About Me" # leave blank to exclude
+number_featured: 3 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  From a young age, I’ve been captivated by the ability of numbers to solve complex problems and uncover meaningful insights. This passion led me to pursue a career in economics, where data and analysis intersect to address critical societal challenges.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
+  After earning a PhD in Development Economics with honors from <a href="https://www.usherbrooke.ca/admission/programme/734/doctorat-en-economie-du-developpement" target="_blank" rel="noopener noreferrer">Université de Sherbrooke</a>, I now serve as a postdoctoral fellow at McGill University’s Department of Epidemiology, Biostatistics, and Occupational Health. As a researcher, I am interested in leveraging data to inform strategies and policies. My work spans the fields of economics, health economics, public health, public policy, and social inequalities, emphasizing how economic frameworks influence societal outcomes and drive impactful solutions.
+  
+  Curiosity and dedication have defined my journey, driving me to transform complex information into actionable solutions that make a meaningful impact.
+
+  When I’m not diving into data and research, you’ll probably find me passionately analyzing a different kind of statistic—game scores! Whether it’s shooting hoops on the basketball court or cheering on my favorite football (soccer) teams, sports are my ultimate way to unwind.
+
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---

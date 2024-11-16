@@ -6,27 +6,41 @@
     <description>Recent content in Publications on MT&#39;s ePortfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A campfire</title>
-      <link>http://localhost:4321/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/talk/campfire/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A seedling</title>
-      <link>http://localhost:4321/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>http://localhost:4321/talk/second-seedling/</guid>
+      <title>Confirmatory analysis of the 13-MD and ranking of its meta-dimensions and items</title>
+      <link>http://localhost:4321/talk/13md_2/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/talk/13md_2/</guid>
       <description></description>
     </item>
     <item>
-      <title>A seedling</title>
-      <link>http://localhost:4321/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      <guid>http://localhost:4321/talk/seedling/</guid>
+      <title>Differences in health utilities between cancer patients and the general population</title>
+      <link>http://localhost:4321/talk/diff_pref_sf6dv2/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/talk/diff_pref_sf6dv2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second version of the Short Form 6-Dimension value set elicited from patients with breast and colorectal cancer</title>
+      <link>http://localhost:4321/talk/value_set_sf6dv2/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/talk/value_set_sf6dv2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development of a balanced instrument to measure global health-related quality of life - The 13-MD</title>
+      <link>http://localhost:4321/talk/w13md_1/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/talk/w13md_1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dimensions Used in Instruments for QALY Calculation - A Systematic Review</title>
+      <link>http://localhost:4321/talk/zsystematice_review/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/talk/zsystematice_review/</guid>
       <description></description>
     </item>
   </channel>

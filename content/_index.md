@@ -2,19 +2,17 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+description: I am a economist-researcher at McGill University. My interest centers on microeconomics, health economics, data analysis, public health, and public policy, where I focus on using data-driven insights to address social challenges. 
+image_left: false
+image_shape: circle # circle, square, rounded, leave blank to exclude
 images:
-- img/revoir.jpg
+- img/TOURE M-modified.png
+image_shape: circle # circle, square, rounded, leave blank to exclude
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+subtitle: Researcher at McGill University's Department of Epidemiology, Biostatistics and Occupational Health
+text_align_left: true
+title: Moustapha Touré
 type: home
 ---
 

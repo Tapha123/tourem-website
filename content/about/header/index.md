@@ -3,10 +3,12 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hi, Welcome!
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+My name is Moustapha and I’m a researcher at <a href="https://www.mcgill.ca/epi-biostat-occh/" target="_blank" rel="noopener noreferrer">McGill University's Department of Epidemiology, Biostatistics and Occupational Health</a>. 
+I am a passionate economist and researcher dedicated to using data to tackle real-world challenges. 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+You're in the right place to know more about me, so make yourself comfortable!
+
