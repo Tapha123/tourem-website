@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a economist-researcher at McGill University. My interest centers on microeconomics, health economics, data analysis, public health, and public policy, where I focus on using data-driven insights to address social challenges. 
+description: I am an economist-researcher at McGill University. My interest centers on microeconomics, health economics, data analysis, public health, and public policy, where I focus on using data-driven insights to address social challenges. 
 image_left: false
 image_shape: circle # circle, square, rounded, leave blank to exclude
 images:
