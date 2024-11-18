@@ -10,7 +10,7 @@ intro: |
   
   Curiosity and dedication have defined my journey, driving me to transform complex information into actionable solutions that make a meaningful impact.
 
-  When I’m not <em>"economizing"</em>, I enjoy immersing myself in sports, whether it’s playing basketball, cheering for football (soccer) matches, or capturing the world through my camera lens. Sports and photography are my go-to ways to relax and find inspiration beyond the numbers.
+  When I’m not *"economizing"*, I enjoy immersing myself in sports, whether it’s playing basketball, cheering for football (soccer) matches, or capturing the world through my camera lens. Sports and photography are my go-to ways to relax and find inspiration beyond the numbers.
 
 show_outro: false
 outro: |
