@@ -157,7 +157,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CAnD3"
     title = "CAnD3"
-    url = "/CAnD3/"
+    url = "/post/"
     weight = 4
   #[[menu.header]]
    # name = "A collection"

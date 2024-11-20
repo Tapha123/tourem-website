@@ -172,6 +172,8 @@
   </url><url>
     <loc>http://localhost:4321/about/</loc>
   </url><url>
+    <loc>http://localhost:4321/cand3/</loc>
+  </url><url>
     <loc>http://localhost:4321/contributors/</loc>
   </url><url>
     <loc>http://localhost:4321/license/</loc>
