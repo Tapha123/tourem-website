@@ -1,13 +1,12 @@
 ---
 title: "CAnD3"
 author: "Moustapha Touré"
-date: 
+date: 2024-11-20
 categories: 
 tags: 
 ---
 
-
-
+#
 
 I had the immense pleasure to be part of the 2024/2025 cohort of the <a href="https://www.mcgill.ca/cand3/" target="_blank" rel="noopener noreferrer">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> where I had the opportunity to enhance my skills regarding data analysis as well as expanding my network by meeting great researchers from many domains.
 
