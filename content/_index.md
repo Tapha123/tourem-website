@@ -6,7 +6,7 @@ description: I am an economist-researcher at McGill University. My interest cent
 image_left: false
 image_shape: circle # circle, square, rounded, leave blank to exclude
 images:
-- img/TOURE M-modified.png
+- img/MT_434x450.png
 image_shape: circle # circle, square, rounded, leave blank to exclude
 show_action_link: true
 show_social_links: true
